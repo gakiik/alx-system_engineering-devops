@@ -1,1 +1,1 @@
-Checkout for more info
+shell redirections
